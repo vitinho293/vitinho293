@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💚
 
-<!--
-**vitinho293/vitinho293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é victor eduardo
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https://www.alura.com.pr)
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desevolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você entrar em contato comigo 📫
+
+- victor.tomasin@escola.pr.gov.br
+
+- @vitinho65gg
+
+![]()![hampter-sad](https://github.com/user-attachments/assets/d1bf7b34-9495-4843-b15b-62384f91842a)
