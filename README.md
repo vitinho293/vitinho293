@@ -12,4 +12,4 @@ meu nome é victor eduardo
 
 - @vitinho65gg
 
-![]()![hampter-sad](https://github.com/user-attachments/assets/d1bf7b34-9495-4843-b15b-62384f91842a)
+![]()![Uploading the-simpsons-homer-simpson.gif…]()
