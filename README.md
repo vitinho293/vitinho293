@@ -11,5 +11,5 @@ meu nome é victor eduardo
 - victor.tomasin@escola.pr.gov.br
 
 - @vitinho65gg
--
-- ![](https://media1.tenor.com/m/RukAQg6-ozIAAAAC/the-simpsons.gif)
+
+ ![](https://media1.tenor.com/m/RukAQg6-ozIAAAAC/the-simpsons.gif)
