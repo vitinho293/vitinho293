@@ -12,4 +12,4 @@ meu nome é victor eduardo
 
 - @vitinho65gg
 -
-- ![](![Uploading the-simpsons-homer-simpson.gif…]
+- ![](https://media1.tenor.com/m/RukAQg6-ozIAAAAC/the-simpsons.gif)
