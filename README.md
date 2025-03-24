@@ -12,6 +12,4 @@ meu nome é victor eduardo
 
 - @vitinho65gg
 
- ![](https://media1.tenor.com/m/RukAQg6-ozIAAAAC/the-simpsons.gif)
-
-![](https://tenor.com/pt-BR/view/escanor-cruel-sun-7deadly-sins-seven-deadly-sins-flame-gif-13710301)
+![](https://media1.tenor.com/m/o8kZ7DxcgacAAAAd/escanor-cruel-sun.gif)
